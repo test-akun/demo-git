@@ -1,4 +1,4 @@
 package main
 
-// fitur diskon
+// fitur diskon besar-besaran
 // fitur rekomendasi
